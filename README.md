@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-alencar-a204b4219/)
 
 - 🌎 Iniciando no mundo programático! 
-- 📚 Estou estudando: Front-End (HTML,CSS e JavaScript) e Back-End (Phyton).  
+- 📚 Estou estudando: Front-End (HTML,CSS e JavaScript) e Back-End (C, C#, Java).  
 - 💬 Pronouns: ele/dele;
 
 ![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=raulalen&show_icons=true&theme=dracula)
